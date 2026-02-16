@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/remote.mikepellegrino.com.ico",
     "slug": "remote",
     "status": "up",
-    "uptime": "66.76%",
-    "uptimeDay": "66.76%",
-    "uptimeWeek": "66.76%",
-    "uptimeMonth": "66.76%",
-    "uptimeYear": "66.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 401,
     "timeWeek": 401,
     "timeMonth": 401,
     "timeYear": 401,
-    "dailyMinutesDown": {
-      "2026-02-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
