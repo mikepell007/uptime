@@ -7,12 +7,12 @@ sites:
     url: $BI
     type: globalping
     check: icmp-ping
-    location: 'North America'
+    location: north america
   - name: EDI
     url: $EDI
     type: globalping
     check: icmp-ping
-    location: 'North America'
+    location: north america
   - name: Cams
     url: $CAMS_URL
   - name: Files
