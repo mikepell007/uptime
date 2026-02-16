@@ -4,17 +4,17 @@ repo: uptime # The name of this repository
 
 sites:
   - name: BI
-    url: https://23.24.27.145
-    type: globalping
-    check: icmp-ping
-    location: north america
+    url: $BI
+    port: 80
+    check: "tcp-ping"
   - name: EDI
-    url: https://50.216.219.2
-    type: globalping
-    check: icmp-ping
-    location: north america
+    url: $EDI
+    port: 80
+    check: "tcp-ping"
   - name: Cams
     url: $CAMS_URL
+    type: globalping
+    location: north america
   - name: Files
     url: $FILES_URL
   - name: ForgeJo
