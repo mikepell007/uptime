@@ -5,12 +5,14 @@ repo: uptime # The name of this repository
 sites:
   - name: BI
     url: $BI
-    port: 80
-    check: "tcp-ping"
+    type: globalping
+    check: icmp-ping
+    location: North America
   - name: EDI
     url: $EDI
-    port: 80
-    check: "tcp-ping"
+    type: globalping
+    check: icmp-ping
+    location: North America
   - name: Cams
     url: $CAMS_URL
   - name: Files
