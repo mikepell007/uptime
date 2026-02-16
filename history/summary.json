@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/remote.mikepellegrino.com.ico",
     "slug": "remote",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "84.16%",
+    "uptimeDay": "84.16%",
+    "uptimeWeek": "84.16%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "84.16%",
     "time": 358,
     "timeDay": 358,
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-02-16": 0
+      "2026-02-16": 3
     }
   },
   {
