@@ -4,12 +4,12 @@ repo: uptime # The name of this repository
 
 sites:
   - name: BI
-    url: $BI
+    url: 23.24.27.145
     type: globalping
     check: icmp-ping
     location: north america
   - name: EDI
-    url: $EDI
+    url: 50.216.219.2
     type: globalping
     check: icmp-ping
     location: north america
