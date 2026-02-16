@@ -1,7 +1,7 @@
 url: $GRAYLOG_URL
 status: up
 code: 200
-responseTime: 280
-lastUpdated: 2026-02-16T22:46:21.299Z
+responseTime: 320
+lastUpdated: 2026-02-16T22:49:49.871Z
 startTime: 2026-02-16T13:15:03.628Z
 generator: Upptime <https://github.com/upptime/upptime>
