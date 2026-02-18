@@ -17,22 +17,42 @@ sites:
     location: north america
   - name: Files
     url: $FILES_URL
+    type: globalping
+    location: north america
   - name: ForgeJo
     url: $FORGEJO_URL
+    type: globalping
+    location: north america
   - name: FreshRSS
     url: $FRESHRSS_URL
+    type: globalping
+    location: north america
   - name: Graylog
     url: $GRAYLOG_URL
+    type: globalping
+    location: north america
   - name: HA
     url: $HA_URL
+    type: globalping
+    location: north america
   - name: Naemon
     url: $NAEMON_URL
+    type: globalping
+    location: north america
+    type: globalping
+    location: north america
   - name: Nextcloud
     url: $NEXTCLOUD_URL
+    type: globalping
+    location: north america
   - name: Notes
     url: $NOTES_URL
+    type: globalping
+    location: north america
   - name: Remote
     url: $REMOTE_URL
+    type: globalping
+    location: north america
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
