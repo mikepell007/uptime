@@ -1,7 +1,7 @@
 url: $NOTES_URL
-status: down
-code: 429
-responseTime: 0
-lastUpdated: 2026-02-20T11:45:26.424Z
+status: up
+code: 302
+responseTime: 223
+lastUpdated: 2026-02-20T12:25:36.272Z
 startTime: 2026-02-16T13:15:07.452Z
 generator: Upptime <https://github.com/upptime/upptime>
