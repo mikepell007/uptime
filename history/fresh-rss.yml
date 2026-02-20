@@ -1,7 +1,7 @@
 url: $FRESHRSS_URL
-status: up
-code: 200
-responseTime: 277
-lastUpdated: 2026-02-19T23:22:17.736Z
+status: down
+code: 429
+responseTime: 0
+lastUpdated: 2026-02-20T11:45:13.066Z
 startTime: 2026-02-16T13:15:02.779Z
 generator: Upptime <https://github.com/upptime/upptime>
