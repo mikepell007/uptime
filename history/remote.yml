@@ -1,7 +1,7 @@
 url: $REMOTE_URL
-status: down
-code: 429
-responseTime: 0
-lastUpdated: 2026-02-20T11:45:28.755Z
+status: up
+code: 302
+responseTime: 297
+lastUpdated: 2026-02-20T12:25:39.409Z
 startTime: 2026-02-16T00:48:10.850Z
 generator: Upptime <https://github.com/upptime/upptime>
