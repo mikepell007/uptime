@@ -1,7 +1,7 @@
 url: $FORGEJO_URL
-status: down
-code: 429
-responseTime: 0
-lastUpdated: 2026-02-20T11:45:09.994Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2026-02-20T12:25:11.585Z
 startTime: 2026-02-16T13:15:01.934Z
 generator: Upptime <https://github.com/upptime/upptime>
