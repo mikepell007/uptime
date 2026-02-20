@@ -1,7 +1,7 @@
 url: $FILES_URL
-status: up
-code: 200
-responseTime: 120
-lastUpdated: 2026-02-19T23:22:14.038Z
+status: down
+code: 429
+responseTime: 0
+lastUpdated: 2026-02-20T11:45:07.483Z
 startTime: 2026-02-16T13:15:01.059Z
 generator: Upptime <https://github.com/upptime/upptime>
