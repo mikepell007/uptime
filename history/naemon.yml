@@ -1,7 +1,7 @@
 url: $NAEMON_URL
-status: up
-code: 200
-responseTime: 192
-lastUpdated: 2026-02-19T23:22:21.295Z
+status: down
+code: 429
+responseTime: 0
+lastUpdated: 2026-02-20T11:45:21.263Z
 startTime: 2026-02-16T13:15:05.314Z
 generator: Upptime <https://github.com/upptime/upptime>
